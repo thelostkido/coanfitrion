@@ -1,0 +1,18 @@
+User-agent: *
+
+Disallow: /api/
+Disallow: /u/
+Disallow: /auth*
+Disallow: /blog/wp-login.php
+Disallow: /blog/cgi-bin/
+Disallow: /blog/wp-admin/
+Disallow: /blog/wp-content/plugins/
+Disallow: /blog/wp-content/cache/
+Disallow: /blog/wp-content/themes/
+Disallow: /screening-start
+Disallow: /screening-success
+
+User-agent: Googlebot-Image
+Allow: /blog/wp-content/uploads/
+
+Sitemap: https://rentberry.com/sitemap.xml
