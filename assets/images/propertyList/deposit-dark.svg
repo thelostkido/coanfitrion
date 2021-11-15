@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="14px" height="16px" viewBox="0 0 14 16" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>Icons/Property/deposit</title>
+    <g id="02-Apartment" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="02-01-01-Apartment-details" transform="translate(-695.000000, -478.000000)">
+            <g id="Group-29" transform="translate(230.000000, 474.000000)">
+                <g id="Group-34" transform="translate(436.000000, 0.000000)">
+                    <g id="Deposit" transform="translate(24.000000, 0.000000)">
+                        <rect id="Rectangle-820-" fill-opacity="0.1" fill="#FDFDFD" opacity="0" x="0" y="0" width="24" height="24"></rect>
+                        <g id="Group-4" transform="translate(5.000000, 4.000000)" stroke="#2E2D36" stroke-width="2">
+                            <path d="M11.9986131,1 C12.2750128,1 12.5250035,1.11282952 12.7062982,1.29327537 C12.8867005,1.4728331 13,1.72002744 13,1.99201702 L13,1.99201702 L13,9.00798298 C13,9.84727971 12.4744087,10.9654889 11.8200219,11.5004077 C11.805188,11.5127744 7.97243553,15 7.08056641,15 C6.18474494,15 2.17651553,11.4653756 2.17651553,11.4653756 C1.52056602,10.9385136 1,9.83553458 1,9.00798298 L1,9.00798298 L1,1.99201702 C1,1.71844682 1.11187187,1.47104647 1.29113535,1.2917072 C1.47075769,1.11200891 1.71841782,1 1.99117518,1 L1.99117518,1 Z" id="Rectangle-98"></path>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

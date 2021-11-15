@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="16px" height="13px" viewBox="0 0 16 13" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>Icons/Property/SQFT</title>
+    <g id="02-Apartment" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="02-01-01-Apartment-details" transform="translate(-24.000000, -482.000000)">
+            <g id="Details" transform="translate(20.000000, 280.000000)">
+                <g id="Group-3" transform="translate(0.000000, 129.000000)">
+                    <g id="SQFT" transform="translate(0.000000, 68.000000)">
+                        <rect id="Rectangle-820-" fill-opacity="0.1" fill="#FDFDFD" opacity="0" x="0" y="0" width="24" height="24"></rect>
+                        <path d="M17.9914698,6 L15.6344348,15.7877194 C15.5315184,16.1221975 15.2851866,16.4155087 14.9905651,16.6329759 C14.6952916,16.8509243 14.3416013,17 13.9914698,17 L13.9914698,17 L6.0085302,17 L8.36556523,7.21228062 C8.46848157,6.87780251 8.71481338,6.58449129 9.00943492,6.36702412 C9.30470841,6.14907573 9.65839873,6 10.0085302,6 L10.0085302,6 L17.9914698,6 Z" id="Path" stroke="#2E2D36" stroke-width="2"></path>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
